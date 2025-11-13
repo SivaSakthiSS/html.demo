@@ -1,1 +1,12 @@
+h1{
+    background-color: rgb(178, 212, 43);
+    text-align: center
+}
+.form{
+
+    text-align: center;
+    padding: 20px;
+    border: dotted;
+    margin: 20px;
+}
 
